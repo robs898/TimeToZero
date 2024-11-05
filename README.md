@@ -4,4 +4,4 @@
 
 Time in seconds until target is dead.
 
-![Screenshot of Addon](capture.jpg)
+![Screenshot of Addon](Capture.JPG)
